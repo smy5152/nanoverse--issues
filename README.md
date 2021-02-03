@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name: Newsweek - Clone
+# Project Name: DIRECTORY SEARCH AND LISTING - WEBSITE TEMPLATE
 
-## Week 3 Collaborative Project
+## CAPSTONE PROJECT - BUILD A COMPLETE HTML5 & CSS3 WEBSITE TEMPLATE
 
 Beaufitul responsive and mobile first web-page design is the future. With mobile devices and multiple size and input devices dominating and growing exponentially, this is going to be the front-end revolution.
 
@@ -21,7 +21,7 @@ Skills Revived & Learned:
 - Introduction to HTML5, CSS3, Bootstrap.
 - Position, Flex, Grid, Floats, RWD
 
-![screenshot](assets/images/milestone-1.png)
+![screenshot](assets/images/)
 
 ## Built With
 
@@ -31,7 +31,7 @@ Skills Revived & Learned:
 
 ## Live Demo
 
-[Live Demo Link](https://smy5152.github.io/newsweek-clone-wk3/)
+[Live Demo Link](https://smy5152.github.io/)
 
 ## Authors
 
@@ -40,12 +40,6 @@ Skills Revived & Learned:
 - GitHub: [@smy5152](https://github.com/smy5152)
 - Twitter: [@smy5152](https://twitter.com/smy5152)
 - LinkedIn: [Shabbir Yamani](https://www.linkedin.com/in/shabbirmyamani/)
-
-👤 **Andres Leon**
-
-- GitHub: [@notrexxx](https://github.com/notrexxx)
-- Twitter: [@emigdioleon1](https://twitter.com/emigdioleon1)
-- LinkedIn: [Emigdio Leon](https://linkedin.com/emigdio-leon-689109195)
 
 ## Show your support
 
