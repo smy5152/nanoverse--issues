@@ -23,7 +23,6 @@ footer {
   width: 100%;
   justify-content: space-between;
   display: flex;
-  /* padding-top: 0.75rem; */
   align-items: baseline;
 }
 
@@ -41,7 +40,7 @@ footer {
 }
 
 .btn {
-  color: #ffffff;
+  color: #fff;
 }
 
 .grid-container {
@@ -139,7 +138,6 @@ footer {
   height: 20px;
   margin-left: 20px;
   margin-top: 5px;
-  margin: 5px;
 }
 
 .nav-right {
@@ -195,6 +193,7 @@ footer {
 .how-it-works {
   margin: 20px;
 }
+
 .white-top-bar {
   border: 2px black;
   height: 30px;
@@ -244,6 +243,7 @@ footer {
   font-weight: 500;
   font-size: 18px;
 }
+
 .steps-svg {
   height: 50px;
   width: 50px;
